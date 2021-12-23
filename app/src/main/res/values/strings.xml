@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Escape Bulletin</string>
+    <string name="signupusername">Username</string>
+    <string name="signup_button_heading">Escape Bulletin</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log In</string>
+</resources>

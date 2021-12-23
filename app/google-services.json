@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676021577156",
+    "project_id": "escape-bulletin",
+    "storage_bucket": "escape-bulletin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676021577156:android:3347da2921c40d61e9b091",
+        "android_client_info": {
+          "package_name": "com.example.escapebulletin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676021577156-ggc14h1f9batp9pnmt7blgceguveur5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyJA6JqhHGxTbPVYEy8ad8OEs9veJl0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676021577156-ggc14h1f9batp9pnmt7blgceguveur5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
