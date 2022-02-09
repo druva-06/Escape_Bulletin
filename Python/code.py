@@ -53,8 +53,8 @@ def sendMail(rollno):
         if escDay == facDay and escYear == facYear and escBranch == facBranch and escSec == facSec:
             if facSTime <= int(escTime) <= int(facETime):
                 facMail = facD[1].split(",")[0].split(": ")[1][1:-1]
-                sender = "19r21a1298@mlrinstitutions.ac.in"
-                password = "Druva@123"
+                sender = "***@gmail.com"
+                password = "****"
                 subject = "Student Detection"
                 body = rollno + " is out of class from 10min\nDetails: \nYear = " + escYear + "\nBranch = " + escBranch + " " + escSec + "\n"
 
